@@ -1,0 +1,120 @@
+.h{
+font-family: Roboto;
+font-size: 32px;
+font-weight: 600;
+line-height: 37px;
+letter-spacing: 0.02em;
+text-align: left;
+margin-left: 20px;
+margin-top: 10px;
+}
+.h1{
+font-family: Roboto;
+font-size: 25px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0.05em;
+color: #FFFFFF;
+background-color: black;
+border-radius: 25px;
+margin-left: 25px;
+width: 300px;
+}
+ .popupBackground {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .popupContent {
+    background-color: #FFFFFF;
+    width: 400px;
+    height: 170px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    position: relative;
+    top: -80px;
+    left: 60px;
+  }
+  .h2{
+    position: relative;
+    top: -40px;
+font-family: Roboto;
+font-size: 22px;
+font-weight: 700;
+line-height: 46px;
+letter-spacing: 0.035em;
+text-align: left;
+ }
+ .h3{position: relative;
+    top: -50px;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 600;
+line-height: 44px;
+letter-spacing: 0.035em;
+text-align: left;
+}
+.h4{
+ font-family: Roboto;
+line-height: 24px;
+margin-left: 30px;
+border-radius: 20px;
+width: 200px;
+}
+.h5{
+    position: relative;
+    top: -60px;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 600;
+line-height: 44px;
+letter-spacing: 0.035em;
+}
+.h6{
+    position: relative;
+    top: -115px;
+    height: 30px;
+    left: 150px;
+    padding: 3px;
+}
+.h7{
+ font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0.035em;
+border-radius: 20px;
+position: relative;
+top: -78px;
+left: 63px;
+width: 120px;
+color: #FFFFFF;
+background-color: #000000;
+}
+.h8{
+  display: flex;
+  font-size: 35px;
+  margin-left:15px;
+  margin-top: 28px;
+}
+.h9{
+  margin-left: 25px;
+  margin-top: 15px;
+  color: #000;
+font-family: Roboto;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.413px;
+}
+.scrollContainer {
+  max-height: 79vh; 
+  overflow-y: auto;
+}
